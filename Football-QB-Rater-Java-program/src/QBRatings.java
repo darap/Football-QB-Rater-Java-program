@@ -49,6 +49,8 @@ public class QBRatings {
 			System.out.print("\n");
 		}
 		
+		
+		
 			double a = ((double) COMP / ATT - 0.3) * 5.0;
 			if (a>2.375){
 				a = 2.375;
